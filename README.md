@@ -1,2 +1,2 @@
 # learning
-author : Manali Patil
+author : Manali Ramakrishna Patil
